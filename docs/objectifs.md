@@ -6,15 +6,15 @@ title: Objectifs du projet
 
 # Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
+Bonjour à vous, nous sommes 3 étudiants d'Unilasalle Amiens en 3ème année en école d'ingénieur. Notre groupe est composé de Lucas Delsart, Noa Lecompte et de Baptiste Gogolewski. Durant cette année nous avons pour projet de réaliser une table interactive en utilisant le framework reacTIVision dont voici le site https://reactivision.sourceforge.net/
 
 ## Contexte du Projet
 
-Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.
+L'année dernière un groupe avait déja commencé ce projet. Ils ont acheté du matériel dont un projecteur, un capteur servant à capter les QRcodes avec les differents cables ainsi qu'une structure fonctionnelle.
 
 ## Objectifs du Projet
 
-Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede.
+L'ojectif de ce projet est d'améliorer cette structure en la rendant plus simple au niveau d'utilisation, de mettre en place une ou plusieurs applications en java.
 
 # Existant
 
