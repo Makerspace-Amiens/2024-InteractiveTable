@@ -14,7 +14,7 @@ L'année dernière un groupe avait déja commencé ce projet. Ils ont acheté du
 
 ## Objectifs du Projet
 
-L'ojectif de ce projet est d'améliorer cette structure en la rendant plus simple au niveau d'utilisation, de mettre en place une ou plusieurs applications en java.
+Plusieurs objectifs ont donc découlé de cet ancien projet. La première étapes est reconcevoir la table pour lui permettre d'être plus stable et qu'elle puisse ce mouvoir plus facilement. Dans la même idée de revoir le design de la table, il nous faut étudier comment intégrer un pc pour piloter la table. Dans un second temps, le codage de diverses fonctionnalitées pour notre table dont une application de musique à l'aide de processing.
 
 # Existant
 
