@@ -6,7 +6,7 @@ title: Objectifs du projet
 
 # Introduction
 
-Bonjour à vous, nous sommes 3 étudiants d'Unilasalle Amiens en 3ème année en école d'ingénieur. Notre groupe est composé de Lucas Delsart, Noa Lecompte et de Baptiste Gogolewski. Durant cette année nous avons pour projet de réaliser une table interactive en utilisant le framework reacTIVision dont voici le site https://reactivision.sourceforge.net/
+Bonjour à vous, nous sommes 3 étudiants d'Unilasalle Amiens en 3ème année en école d'ingénieur. Notre groupe est composé de Lucas Delsart, Noa Lecomte et de Baptiste Gogolewski. Durant cette année nous avons pour projet de réaliser une table interactive en utilisant le framework reacTIVision dont voici le site https://reactivision.sourceforge.net/
 
 ## Contexte du Projet
 

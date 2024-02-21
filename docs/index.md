@@ -16,7 +16,7 @@ L'InteractivTable est à l'origine appelée ReacTable. Il s'agit d'un dispositif
 
 La société qui vendait ces tables a cessée toute activité depuis quelques années. Il n'est donc plus possible à l'heure actuelle de se procurer une table ou des éléments similaires sur le marché. 
 
-C'est ainsi que les étudiants d'Unilasalle ont décidé de reprendre ce projet d'InteractivTable. L'année dernière, trois éttudiants ont pu créer la table à l'aide d'une caméra, d'un vidéo-projecteur et un projecteur infrarouge. Ils ont également créé un jeu sous Unity. Cependant, plusieurs bugs étaient à recenser et remanier le tout était une necessité. 
+C'est ainsi que les étudiants d'Unilasalle ont décidé de reprendre ce projet d'InteractivTable. L'année dernière, trois étudiants ont pu créer la table à l'aide d'une caméra, d'un vidéo-projecteur et un projecteur infrarouge. Ils ont également créé un jeu sous Unity. Cependant, plusieurs bugs étaient à recenser et remanier le tout était une necessité. 
 
 ## Poster
 
