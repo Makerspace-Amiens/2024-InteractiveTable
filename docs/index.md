@@ -12,7 +12,11 @@ Bienvenue dans la documentation du projet InteractiveTable. Ce site a pour but d
 
 ## À propos du Projet
 
-Le but du projet de l'InteractiveTable est de créer une table fonctionnelle permettant la création de diverses applications. L'objectif, dans un premier temps, est de créer une application ludique montrant le fonctionnement de la table et ses capacités. Puis dans un second temps, une application de musique comme le proposait la reactivision originelle. Le projet ayant déjà était commencé l'annéee dernière, le table a déjà été créée. Cependant, un de nos objectifs en plus des appliactions est de la remodéliser afin de la rendre plus pratique, que ce soit au niveau transport ou au niveau rangement.
+L'InteractivTable est à l'origine appelée ReacTable. Il s'agit d'un dispositif de musique electronique créé à l'université Pompeu Fabra de Barcelone. Intialement, la table est ronde et les utilisateurs pouvaient poser des blocs représentant les élémentss d'un synthétiseur. En dessous de ces blocs se trouvent des tags. Selon la position, la proximité ou encore l'orientation de ces derniers, le dispositif réagit différement. 
+
+La société qui vendait ces tables a cessée toute activité depuis quelques années. Il n'est donc plus possible à l'heure actuelle de se procurer une table ou des éléments similaires sur le marché. 
+
+C'est ainsi que les étudiants d'Unilasalle ont décidé de reprendre ce projet d'InteractivTable. L'année dernière, trois éttudiants ont pu créer la table à l'aide d'une caméra, d'un vidéo-projecteur et un projecteur infrarouge. Ils ont également créé un jeu sous Unity. Cependant, plusieurs bugs étaient à recenser et remanier le tout était une necessité. 
 
 ## Poster
 
