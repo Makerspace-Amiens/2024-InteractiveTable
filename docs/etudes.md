@@ -13,6 +13,7 @@ Une des problématiques du projet est de limiter les interactions avec l'extéri
 ![Rasberry Pi 5](images/Raspberry.jpg)
 
 Pour aller avec notre raspberry Pi 5, il était nécessaire d'avoir un système de refroidissement adapter car étant donné qu'il y aura plusieurs logiciels actifs en même temps il pourrait y avoir une surchauffe et donc endommager la raspberry.
+
 ![refroidisseur Raspberry](images/refroidisseur_raspberry.jpg)
 
 ## Processing/Reactivision
