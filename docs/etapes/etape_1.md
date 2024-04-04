@@ -36,4 +36,8 @@ Une fois cette étape terminée, passez à l'[Assemblage](/assemblage).
 <model-viewer src="../images/Table v17.gltf" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="../images/poster.webp" shadow-intensity="1">
 </model-viewer>
 
+<model-viewer src="../images/poster1.gltf" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="../images/poster1.webp" shadow-intensity="1">
+</model-viewer>
+
+
 
