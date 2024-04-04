@@ -12,3 +12,8 @@ Après avoir terminé l'assemblage de la table, nous pouvons passer à la progra
 ## Etapes de la programmation 
 
 1. **Organisation** : Répartition des tâches.
+
+|Applications|Participants|
+|-------------------------|
+|  EducTable |  Lucas/Noa |
+| MusicTable |  Lucas/Noa | 
