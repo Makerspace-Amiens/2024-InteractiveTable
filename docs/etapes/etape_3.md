@@ -17,3 +17,8 @@ Après avoir terminé l'assemblage de la table, nous pouvons passer à la progra
 |:----------:|:----------:|
 |  EducTable |  Lucas/Noa |
 | MusicTable |  Lucas/Noa | 
+
+
+## Début de la programmation de l'EducTable
+
+1. **Conception** : 
