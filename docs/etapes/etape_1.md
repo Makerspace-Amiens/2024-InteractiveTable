@@ -1,25 +1,36 @@
 ---
 layout: default
-title: Préparation des Matériaux
+title: Préparation des équipements technologiques
 parent: Etapes de fabrication
 nav_order: 1
 ---
 
-# Préparation des Matériaux
+# Préparation des équipements technologiques 
 
-Cette section décrit la première étape du processus de fabrication : la préparation des matériaux.
+Cette section décrit la première étape du processus de ReModélisation : La préparation des matériaux
 
-## Liste des Matériaux
+## Liste des matériaux et équipements technologiques 
 
-- Matériau A
-- Matériau B
-- Outils nécessaires
+- Plateau en Bois 
+- Écran en Plexiglass
+- Châssis en Profilés Aluminium (20mm x 20mm)
+- Planches de Bois 
+- Vidéoprojecteur avec Haut-Parleur
+- Projecteur Infrarouge 
+- Lentille Infrarouge
+- Caméra
+- Papier Adhésif 
+- Peinture 
+- Compartiement de Rangement  
+- Roulettes  
 
-## Procédure de Préparation
+## Objectifs
 
-1. **Nettoyage** : Nettoyez tous les matériaux pour enlever la poussière et les débris.
-2. **Découpe** : Découpez les matériaux A et B selon les dimensions spécifiées.
-3. **Prétraitement** : Appliquez un traitement de surface si nécessaire.
+Premièrement, nous avons récupéré la table qui avait été fabriqué l'année dernière. Nous avons établit un cahier des charges qui nous a permis de savoir ce qu'il fallait garder et ce qu'il fallait changer. Les principales changements que nous voulions apporter étaient : 
+- Enelever le Rideau pour repeindre le bois pour un aspect plus esthetique. 
+- Ajouter un compartiment de rangement pour les tags 
+- Couper le plateau en bois afin que la table soit plus adapté au transport 
+- Ajouter un système de roulette dans la même vision 
 
 ## Conseils de Sécurité
 
@@ -28,16 +39,10 @@ Cette section décrit la première étape du processus de fabrication : la prép
 
 ---
 
-Une fois cette étape terminée, passez à l'[Assemblage](/assemblage).
+Une fois cette étape terminée, passez au [Remaniement](/Remaniement).
 
 
-<script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.4.0/model-viewer.min.js"></script>
 
-<model-viewer src="../images/Table v17.gltf" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="../images/poster.webp" shadow-intensity="1">
-</model-viewer>
-
-<model-viewer src="../images/poster1.gltf" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="../images/poster1.webp" shadow-intensity="1">
-</model-viewer>
 
 
 
