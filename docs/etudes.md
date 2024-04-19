@@ -93,3 +93,32 @@ $ sudo apt-get install libturbojpeg0-dev
 
 ## Processing/Reactivision
 
+
+## Lancement de l'application avec processing
+
+Le but est d'excécuter notre application avec `processing` au démarrage du raspberry pi 5.
+Beaucoup de forum sont disponibles sur internet mais elles sont toutes enciennes et sont donc obsolètes pour le raspberry pi 5.
+
+Dans un premier temps nous avons édité le fichier `wayfire.ini` avec la commande suivante :
+```bash
+$ sudo nano .config/wayfire.ini
+```
+
+Allez regarder la section `[autostart]` et si elle n'existe pas vous pouvez simplement la créer.
+Voici pour ma part ce que le fichier contient :
+```bash
+$ sudo nano .config/wayfire.ini
+[autostart]
+panel = wfrespawn wf-panel-pi
+background = wfrespawn pcmanfm --desktop --profile LXDE-pi
+xdg-autostart = lxsession-xdg-autostart
+chromium = chromium-browser https://raspberrypi.com https://time.is/London --kiosk --noerrdialogs --disable-infobars --no-first-run --ozone-platform=wayland >
+start = /home/reactable/Documents/testJavaProcessing/sketch/linux-aarch64/sketch
+screensaver = false
+dpms = false
+```
+
+--`chromium` permet d'ouvrir une page chromium.
+--`start` permet de lancer un script .sh
+
+Pour plus d'information vous pouvez aller voir sur [le site](https://www.raspberrypi.com/tutorials/how-to-use-a-raspberry-pi-in-kiosk-mode/#:~:text=ini%20.%20.-,config%2Fwayfire.,desktop%20in%20Raspberry%20Pi%20OS.&text=This%20line%20opens%20the%20Chromium,.com%20and%20time.is%20.)
