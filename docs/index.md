@@ -12,13 +12,13 @@ Bienvenue dans la documentation du projet InteractiveTable. Ce site a pour but d
 
 ## À propos du Projet
 
+L'InteractiveTable est à l'origine appelée ReacTable. Il s'agit d'un dispositif de musique électronique créé à l'université Pompeu Fabra de Barcelone. Initialement, la table est ronde sur laquelle les utilisateurs peuvent poser des blocs. Sous ces blocs se trouvent des tags. Une caméra capte ces tags et en fonction de leurs positions, leurs orientations... le dispositif réagit différement. 
 L'InteractivTable est à l'origine appelée ReacTable. Il s'agit d'un dispositif de musique electronique créé à l'université Pompeu Fabra de Barcelone. Intialement, la table est ronde et les utilisateurs pouvaient poser des blocs représentant les élémentss d'un synthétiseur. En dessous de ces blocs se trouvent des tags. Selon la position, la proximité ou encore l'orientation de ces derniers, le dispositif réagit différement. 
 
 La société qui vendait ces tables a cessée toute activité depuis quelques années. Il n'est donc plus possible à l'heure actuelle de se procurer une table ou des éléments similaires sur le marché. 
 
 C'est ainsi que les étudiants d'Unilasalle ont décidé de reprendre ce projet d'InteractivTable. L'année dernière, trois étudiants ont pu créer la table à l'aide d'une caméra, d'un vidéo-projecteur et un projecteur infrarouge. Ils ont également créé un jeu sous Unity. Cependant, plusieurs bugs étaient à recenser et remanier le tout était une necessité. 
 
-## Poster
 
 Ici vous publierez le poster de votre projet.
 
