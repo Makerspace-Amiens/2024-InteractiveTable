@@ -10,7 +10,7 @@ Bonjour à vous, nous sommes 3 étudiants d'Unilasalle Amiens en 3ème année en
 
 ## Contexte du Projet
 
-L'année dernière un groupe avait déja commencé ce projet. Ils ont acheté du matériel dont un projecteur, un capteur servant à capter les QRcodes avec les differents cables ainsi qu'une structure fonctionnelle.
+Comme énoncé plus tôt nous sommes en 3ème année et nous devons donc, pour la valider, présenté un projet regroupant les différentes notions que nous avons vues tout au long de notre cursus. On retrouve différents domaines tels que l'électronique, la programmation ou encore la modélisation 3D. Pour nous aider à la réalisation d'un projet, nous avons eu à notre disposition une liste de divers projets. Nous nous sommes alors orientés vers le projet de RéacTable. Ce projet consiste à utiliser des tags collés à des objets. Ces derniers peuvent être par la suite bougé sur une table construite pour l'occasion. Elle contient plusieurs éléments, le premier élément est une caméra pour pouvoir détecter les tags et le deuxième élément est un projecteur qui sert à afficher ce que l'on veut lors de la détection des tags. Cependant, nous ne sommes pas les premiers à travailler sur ce projet car nous prenons la suite d'un groupe de l'année précédente. Nos objectifs finaux se voient donc différent d'un nouveau projet puisque nous avons déjà une base sur laquelle s'appuyer. 
 
 ## Objectifs du Projet
 
