@@ -18,7 +18,7 @@ Les objectifs de notre projet peuvent être séparés en deux catégories. La pr
 
 # Existant
 
-En plus de reprendre le travail du groupe précédent, il existe déjà un modèle commercial de notre projet.
+En plus de reprendre le travail du groupe précédent, il existe déjà un modèle commercial de notre projet. Ce produit s'appelle la Reactable. Elle a été conçue à la base en tant qu'instrument de musique à la manière d'un DJ. Ce projet déjà existant va nous aider dans la réalisation du nôtre.
 
 # Cahier des Charges
 
