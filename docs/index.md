@@ -20,9 +20,8 @@ La société qui vendait ces tables a cessé toute activité depuis quelques ann
 C'est ainsi que les étudiants d'Unilasalle ont décidé de reprendre ce projet d'InteractivTable. L'année dernière, trois étudiants ont pu créer la table à l'aide d'une caméra, d'un vidéo-projecteur et un projecteur infrarouge. Ils ont également créé un jeu sous Unity. Cependant, plusieurs bugs étaient à recenser et remanier le tout était une nécessité. 
 
 
-Ici vous publierez le poster de votre projet.
 
-![Poster projet](images/poster.jpg)
+![Poster projet](images/poster.png)
 
 ## Vidéo
 

@@ -22,4 +22,8 @@ En plus de reprendre le travail du groupe précédent, il existe déjà un modè
 
 # Cahier des Charges
 
-Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus.
+| Tâches                         | Etudiants             |  
+|:------------------------------------------------------:|
+| Modélisation de la table       | Gogolewski.B          |
+| Programmation de l'application | Delsart.L / Lecomte.N |
+
