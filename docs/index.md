@@ -25,6 +25,10 @@ C'est ainsi que les étudiants d'Unilasalle ont décidé de reprendre ce projet 
 
 ## Vidéo
 
-https://www.youtube.com/watch?v=Ho9TrHFn6SI&ab_channel=NoaLecomte
+<video width="320" height="240" controls>
+
+  <source src="images/ProjetI3.mp4" type="video/mp4">
+
+</video>
 
 ---
