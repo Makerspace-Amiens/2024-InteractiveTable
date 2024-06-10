@@ -37,12 +37,12 @@ Nous avons tout d'abord réfléchi à la conception de l'application qui permet 
 
 Le but de cette partie est de permettre à n'importe quel utilisateur d'apprendre à utiliser la table. La première étape logique de cet objectif, c'est de demander à l'utilisateur de placer un des objets sur l'écran. Cette étape est aussi très importante pour montrer que chaque objet est indépendant et donc n'interagit pas de la même manière avec la table.
 
-![tuto1](images/tuto1.png)
+![tuto1](images/tutuo1.gif)
 
 Ensuite, nous pouvons passer aux différents mouvements réalisables. Les exemples que nous montrons à l'utilisateur sont, dans l'ordre, la rotation en lui demandant de tourner l'objet, la position en lui suggérant de faire un mouvement vers le haut et pour finir la vitesse grâce à un mouvement rapide.
 Toutes ces actions se réalisent avec un seul et même objet, mais celles-ci sont toutes visibles grâce à un changement d'affichage.
 
-![tuto2](images/tuto2.png)      ![tuto3](images/tuto3.png)
+![tuto2](images/tuto2.gif)      
 
 Après avoir fini cette démonstration, le projecteur va afficher une fenêtre où le but sera de réaliser un puzzle avec les 5 objets de la table.
 
