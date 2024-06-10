@@ -6,6 +6,27 @@ title: Conception et prototypage
 
 # Conception et prototypage
 
+## Modélisation
+
+La première étape du projet a été de concevoir la table interactive dans son intégralité à l'aide de du logiciel ```Fusion 360```.
+
+- La table interactive : La structure principale de la table a été modélisée pour inclure les futures modifications. Dans un premier temps, le plateau a été fait en carton pour se donner une idée. Par la suite, il a été réalisé en bois et en acrylique noir. Le plateau se compose de deux étages. Le premier est en bois et le deuxième est en acrylique noir. Une découpe a été faite pour pouvoir enlever avec son doigt l'écran en plexiglass.
+- Les Poignées : Des poignées ergonomiques ont été conçues pour faciliter le déplacement de la table. Elles ont été positionnées de manière stratégique pour assurer une manipulation aisée. Deux inserts filtés sont placés dans la poignée pour visser celle-ci sur la table.
+- Supports pour Roues : Des supports spécifiques ont été modélisés pour accueillir des roues de 144 mm. Ces supports sont conçus pour être robustes et durables, assurant ainsi la stabilité de la table lors de son déplacement.
+- Roues de 144 mm : Les roues elles-mêmes ont été modélisées pour s'assurer qu'elles s'intègrent parfaitement aux supports modélisés en 3D.
+
+### Assemblage
+
+Une fois les modèles 3D finalisés, les pièces ont été fabriquées à l'aide d'imprimantes 3D et d'autres via une découpeuse laser. Le processus de prototypage comprenait les étapes suivantes :
+
+- 1- ```Impression et découpe des Composants :``` Les modèles 3D ont été imprimés en utilisant du filament PLA, offrant une bonne combinaison de résistance et de flexibilité pour nos besoins. Des pièces ont aussi été découpées dans des planches de bois de 5 mm pour une meilleure résistance.
+
+- 2- ```Assemblage de la Table :``` Les différentes pièces ont été assemblées pour former la structure de la table interactive. Les supports pour roues ont été fixés à la base de la table, et les roues de 144 mm ont été installées sur les supports ainsi que les poignées.
+
+- 3- ```Installation des Composants Électroniques :``` Le Raspberry Pi 5 et les autres composants ont été installés dans les emplacements prévus. Les câblages nécessaires ont été effectués pour assurer la connectivité et le fonctionnement de l'ensemble du système.
+
+- 4- ```Tests de Fonctionnement :``` Des tests ont été réalisés pour vérifier le bon fonctionnement de chaque composant, ainsi que l'interaction entre eux via le protocole TUIO. Les ajustements nécessaires ont été effectués pour optimiser la performance de la table interactive.
+
 ## Programmation des applications
 
  Dans les problématiques du projet, il nous est demandé de créer deux types d'application. La première est une application musicale et la seconde une application simple et éducative sur les fonctionnalités de la table.
