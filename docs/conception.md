@@ -80,6 +80,8 @@ Voici le résultat final:
 
 ### Musique
 
+Cette application est inspirée de 
+
 ### Menu
 
 ### Adaption sur la table

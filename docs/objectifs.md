@@ -21,7 +21,7 @@ Les objectifs de notre projet peuvent être séparés en deux catégories. La pr
 Pour ce qui est de la mobilité, il nous faut réaliser des modifications au niveau de la partie supérieure de la table puisque cela pose problème lors du passage dans certaines portes. Il faut également modifier la partie inférieure de la table car cette dernière manque de stabilité. Par ailleurs, l'ajout d'un système permettant à la table de bouger est aussi nécessaire. La dernière problématique à laquelle il faut répondre au niveau de la conception, c'est l'ajout d'un dispositif interne à la table pour permettre à n'importe quel utilisateur de faire fonctionner la table. La deuxième catégorie comporte les objectifs en lien avec l'électronique et la programmation. Tout d'abord, nous avons un objectif qui fait référence à la catégorie précédente puisque après avoir installé le dispositif, il faut le configurer. Enfin, la dernière étape est de créer une application qui permet à l'utilisateur d'interagir avec les objets posés sur la table. Pour préciser l'application, elle doit comporter un mode de découverte des fonctionnalités ainsi qu'un mode musical. 
 
 
-# Cahier des Charges
+## Cahier des Charges
 
 Afin de mener à bien ce projet et d'être le plus efficace possible, il était impératif de nous répartir les tâches. Nous avons donc listé tous nos objectifs et avons créé un cahier des charges permettant à chacun de savoir ce qu'il devait faire tout au long du projet. 
 
