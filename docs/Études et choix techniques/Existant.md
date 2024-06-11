@@ -34,7 +34,7 @@ Dans cette second partie, nous allons voir les éléments réalisés par le grou
 
 Notre décision pour la planche supérieure fut très vite prise lors de ce projet car elle faisait partie des problématiques de notre cahier des charges. En effet, cette planche est trop emcombrante, il faut donc la remplacer ou la réduire.
 
-![planche](planche_sup.jpg)
+![planche](planche_sup.png)
 
 Cependant, nous avons mis pas mal de temps à trouver une solution. Dans un premier temps, nous avons pensé à redécouper la planche pour qu'elle est une dimension plus convenable. Mais plusieurs problèmes sont apparus, nous ne pouvions pas réaliser cette découpe dans l'école car il n'y avait pas d'outils pour un bois d'une telle épaisseur. Il fallait donc que nous la fissions directement chez nous, mais ne possédions ni les outils ni le moyen de transporter la planche pour mener à bien cette découpe.
 
@@ -46,15 +46,16 @@ Au niveau de la structure de la table, nous avons décidé de ne rien changer su
 
 ## Supports
 
+Pour fixer les différents composants cités précédemment, l'équipe de l'année dernière a créé plusieurs supports que ce soit pour le projecteur, la caméra ou le projeteur infrarouge. Ainsi que plusieurs petites pièces qui ont permis l'assemblage du châssis. Nous avons décidé de garder tous ces éléments tels qu'ils étaient car nous les trouvions efficaces dans leurs rôles.
 
 ## Objets pour les tags
 
-Les objets initialements créés par le groupe précédent avaient été pensés pour convenir aux 2 modes de jeu qu'ils avaient créé. Pour certains de ces objets, leurs utilisations dans un autre domaine que leurs conceptions de base n'était pas pratique pour ce que l'on voulait en faire. Par exemple, le tag ci-dessous, n'est pas agréable à prendre en main sur la table car trop grand et trop plat. De plus, le papier du tag étant usé l'objet devient inutilisable.
+Les objets initialement créés par le groupe précédent avaient été pensés pour convenir aux 2 modes de jeu qu'ils avaient créés. Pour certains de ces objets, leurs utilisations dans un autre domaine que leurs conceptions de base n'étaient pas pratiques pour ce que l'on voulait en faire. Par exemple, le tag ci-dessous, n'est pas agréable à prendre en main sur la table car trop grand et trop plat. De plus, le papier du tag étant usé l'objet devient inutilisable.
 
-![tagplat](tagplat.jpg)
+<img src="tagplat.jpg" alt="tagplat" width="200"/>
 
 
-Nous avons tout de même garder une manette de pong et le cube qu'il avait créé puisque cela pouvait nous être utile dans nos application.
+Nous avons tout de même gardé une manette de pong et le cube qu'il avait créé puisque cela pouvait nous être utile dans nos applications.
 
 # Application
 

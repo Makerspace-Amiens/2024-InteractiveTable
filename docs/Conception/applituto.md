@@ -43,9 +43,9 @@ Voici un exemple avec 2 pièces:
 La dernière étape consiste à vérifier si les objets sont bien positionnés pour afficher le carré complet. Ces vérifications ne se feront que lorsque les 5 objets seront placés sur la table pour plusieurs raisons. Dans un premier temps, d'un point de vue technique, si l'on vérifie à chaque fois que 2 pièces sont bien positionnées entre elles, il faudrait garder en mémoire cette information pour s'assurer que les 5 pièces sont bien placées sans oubli. Cela ne serait pas pratique et rajouterait beaucoup de ligne de code pour faire peu d'actions. Dans un second temps, pour éviter les coups de chance de l'utilisateur qui placerait 2 pièces ensemble aléatoirement. Sachant comment nous avons réalisé les pièces, il n'est pas difficile en théorie de réussir cette étape. Comme 4 pièces ont été translatées selon certaines coordonnées il nous suffit de faire la différence entre la pièce non translater et les autres puis de vérifier, avec une condition ` if()`, si le résultat de cette différence est assez proche de la translation.
 
 Par exemple, prenons:
-    * x1=200; y1=350;
-    * x2=150; y2=350;
-    * avec une translation en x de 75.
+- x1=200; y1=350;
+- x2=150; y2=350;
+- avec une translation en x de 75.
 
 Dans ce cas de figure, la soustraction nous donne une différence de 50 en x et 0 en y. Le résultat en y est correct, cependant en x, cela ne correspond pas à la translation initiale. La condition n'est donc pas respectée. 
 
