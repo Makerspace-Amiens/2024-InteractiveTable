@@ -133,8 +133,12 @@ En changeant les variables comme nous le souhaitons et en accordant la position 
 
 Nous obtenions ceci : 
 
-//insérer vidéo animation 
+<video width="480" height="240" controls>
+  <source src="video2.mp4" type="video/mp4">
+</video>
 
 Enfin, l'assemblage de toutes ces fonctions ont permis ce rendu final : 
 
-// insérer vidéo musique et animation
+<video width="480" height="240" controls>
+  <source src="video3.mp4" type="video/mp4">
+</video>
