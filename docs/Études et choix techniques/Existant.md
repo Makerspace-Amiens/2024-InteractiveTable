@@ -25,3 +25,8 @@ La caméra choisie, est une caméra USB de chez GOTRONIC. De plus, une lentille 
 Pour que la caméra avec l'entille infrarouge fonctionne corectement, il faut un projecteur infrarouge. Ce projecteur devait répondre à plusieurs contraintes tel que la longueur d'onde de sa lumière, ici 850nm. Ainsi que la puissance pour éviter des problème de détection.
 
 ![infra](projecteur_infra.jpg)
+
+# Application
+
+Le projet de nos prédecesseurs incluait un jeu de pong. Cependant, ce dernier, en plus de quelques petits bugs ressentis, ne permettait pas à l'utilisateur d'utiliser toutes les fonctionnalités des tags. Egalement, ce jue fût développé avec Unity, un moteur de jue très gourmand et nécessitant un bon ordinateur. Il se demandait alors "Pourquoi acheter une Interactiv'Table ?" quand il pouvait simplement y jouer sur un smartphone ou une tablette tactile. 
+Il nous fallait donc trouver des idées montrant les différentes possibilités de la table afin de faire comprendre au public l'interet et l'utilité de cette table interactive. 

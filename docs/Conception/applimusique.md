@@ -16,6 +16,8 @@ Voici une démonstration de la ReacTable, aujourd'hui indisponible dans le comme
 </video>
 
 Nous avions pour objectif de créer une application musicale comme le proposait à l'origine la ReacTable. 
+Au départ, nous voulions partir sur un jeu ressemblant à "Piano Tiles". Cependant, ce dernier n'utilisait pas réellement toutes les options mises à notre disposition permettant de montrer à l'utilisateur l'interet d'acheter une Interactiv'Table.
+Nous avons donc réflechi à une autre application, non pas sous la forme d'un jeu mais reprenant un coté amusant, pratique et ludique. 
 L'objectif de cette application était de permettre à l'utilisateur de créer sa musique tout en utilisant les différentes focntionnalités des tags. 
 
 Pour cela, nous avons découpé le travail en trois parties : 
