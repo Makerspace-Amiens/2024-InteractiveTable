@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Application Musicale
+title: Installation sur la Raspberry
 parent: Conception
 nav_order: 6
 ---
