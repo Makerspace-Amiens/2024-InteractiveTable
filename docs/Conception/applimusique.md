@@ -18,7 +18,7 @@ Voici une démonstration de la ReacTable, aujourd'hui indisponible dans le comme
 Nous avions pour objectif de créer une application musicale comme le proposait à l'origine la ReacTable. 
 L'objectif de cette application était de permettre à l'utilisateur de créer sa musique tout en utilisant les différentes focntionnalités des tags. 
 
-Pour cela, nous avons découper le travail en trois parties : 
+Pour cela, nous avons découpé le travail en trois parties : 
 
     - Création de la musique
         - Trouver une musique à reproduire sur la table 
@@ -38,11 +38,11 @@ Pour cela, nous avons découper le travail en trois parties :
 ## Création de l'application 
 
 Maintenant que nous savions ce que nous voulions, nous n'avions plus qu'à le mettre en place. 
-Nous avons ainsi commencer par la création d'une musique. 
+Nous avons ainsi commencé par la création d'une musique. 
 
 ### Création de la musique 
 
-Afin de reproduire une musique, il fallait tout d'abordnous en approprier une. Pour cela, nous avons d'abord essayer de créer de nos mains notre morceau. Cependant, nous nous sommes vite rendu compte que cela allait nous prendre un certain temps pour un rendu peu concluant. 
+Afin de reproduire une musique, il fallait tout d'abord nous en approprier une. Pour cela, nous avons d'abord essayé de créer de nos mains notre morceau. Cependant, nous nous sommes vite rendu compte que cela allait nous prendre un certain temps pour un rendu peu concluant. 
 Nous avons donc décider de procéder autrement. De nos jours, l'intelligence artificielle est capable de réaliser de grandes choses. 
 Nous avons donc pris l'initiative d'essayer de créer une musique à l'aide de l'une d'elle. Après avoir parcouru de nombreux sites internet, nous sommes arrivés sur celui de Bandlab.com. Ce dernier nous proposait d'utiliser gratuitement une IA afin de créer un morceau d'un style choisi, et de pouvoir le modifier ainsi que de le télécharger. 
 
@@ -67,7 +67,7 @@ Créer les lecteurs audio :
 AudioPlayer player1, player2, player3, player4;
 ```
 
-Lier le tag au lecteur et lancer la musique s'il est détécter :
+Lier le tag au lecteur et lancer la musique s'il est détécté :
 ```java
   if (tobj.getSymbolID() == 4 && player4 == null) {
     player4 = minim.loadFile("part4-4.wav");
@@ -84,7 +84,7 @@ Arrêter la musique :
 ```
 
 Evidemment, ceci n'est qu'un exemple et un morceau du programme pour un lecteur. 
-Les fonctions permettant la détection des tags, importé du FrameWork TUIO doivent être également présentes pour permettre le bon fonctionnement des autres fonctions. 
+Les fonctions permettant la détection des tags, importées du FrameWork TUIO doivent être également présentes pour permettre le bon fonctionnement des autres fonctions. 
 
 Nous voulions donc créer 4 lecteurs pour 4 sons différents et permettre à la personne de laisser parler sa créativité. 
 Il n'avait donc plus qu'à trouver le bon rythme, et sa musique était créée. 
@@ -107,8 +107,8 @@ Encore une fois, cela a été possible grâce à la bibliothèque Minim mais ég
 ### Création des animations
 
 Afin de rendre le tout plus esthétique, nous avions pour objectif de créer des animations 2D qui s'adapte au mouvement des objets. 
-Pour cela nous avons d'abord effectuer des recherches afin de comprendre comment cela pouvait marcher. 
-Il ne s'agissiat en réalité que de formules mathématiques comprenant diverses variables que nous pouvions changer pour créer différentes formes auxquelles nous appliquions un fond de couleur. 
+Pour cela nous avons d'abord effectué des recherches afin de comprendre comment cela pouvait marcher. 
+Il ne s'agissait en réalité que de formules mathématiques comprenant diverses variables que nous pouvions changer pour créer différentes formes auxquelles nous appliquions un fond de couleur. 
 Après avoir trouvé une formule adéquate, nous avons essayé de la reproduire et de lier nos objets et plus précisemment leurs positions. Ainsi, en bougeant l'objet dans le sens souhaité, l'animation prend forme. 
 
 
