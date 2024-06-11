@@ -133,7 +133,7 @@ En changeant les variables comme nous le souhaitons et en accordant la position 
 
 Nous obtenions ceci : 
 
-<video width="480" height="240" controls>
+<video width="480" height="240" controls muted>
   <source src="video2.mp4" type="video/mp4">
 </video>
 
