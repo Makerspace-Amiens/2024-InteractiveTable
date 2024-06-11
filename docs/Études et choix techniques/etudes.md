@@ -2,6 +2,7 @@
 layout: default
 nav_order: 3
 title: Études et choix techniques
+has_children: true
 ---
 
 # Études et choix techniques
