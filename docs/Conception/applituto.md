@@ -19,7 +19,7 @@ ArrayList<TuioObject> tuioObjectList = tuioClient.getTuioObjectList();
        updateTuioObject(tobj);
 ```
 
-Le deuxième programme nous a également permis de remarquer un premier problème. En effet, lorsque nous boujons un objet vers le haut ou vers le bas, le mouvement affiché par le cube était l'inverse de notre action. L'axe y de notre caméra est donc inversé. Ce problème est assez facile à régler. Il suffit de ce positionner sur la fenêtre de réactivition et de faire un enchainement de touche : ⬆️ ⬆️ ➡️. Ce qui affiche si réalisé correctement ce message sur la fenêtre.
+Le deuxième programme nous a également permis de remarquer un premier problème. En effet, lorsque nous boujons un objet vers le haut ou vers le bas, le mouvement affiché par le cube était l'inverse de notre action. L'axe y de notre caméra est donc inversé. Ce problème est assez facile à régler. Il suffit de ce positionner sur la fenêtre de réactivition et de faire un enchainement de touche : ⬆️ ⬆️ ➡️. Ce qui affiche si réalisé correctement ce message sur la fenêtre:
 
 ![axey](axe_y.png) 
 
