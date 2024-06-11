@@ -4,7 +4,8 @@ title: Modélisation
 parent: Conception
 nav_order: 1
 ---
-## Modélisation
+
+# Modélisation
 
 La première étape du projet a été de concevoir la table interactive dans son intégralité à l'aide de du logiciel ```Fusion 360```.
 

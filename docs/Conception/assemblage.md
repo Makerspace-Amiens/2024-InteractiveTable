@@ -5,7 +5,7 @@ parent: Conception
 nav_order: 2
 ---
 
-## Assemblage
+# Assemblage
 
 Une fois les modèles 3D finalisés, les pièces ont été fabriquées à l'aide d'imprimantes 3D et d'autres via une découpeuse laser. Le processus de prototypage comprenait les étapes suivantes :
 

@@ -5,13 +5,13 @@ parent: Conception
 nav_order: 3
 ---
 
-## Programmation des applications
+# Programmation des applications
 
  Dans les problématiques du projet, il nous est demandé de créer deux types d'application. La première est une application musicale et la seconde une application simple et éducative sur les fonctionnalités de la table.
 
 Nous avons tout d'abord réfléchi à la conception de l'application qui permet de découvrir les différentes fonctionnalités de la table. Cela était plus logique pour nous car on pourrait nous aussi apprendre à manier les tags et mieux comprendre leur fonctionnement. Les premiers tests que nous avons réalisés se sont déroulés sur la table directement puisque le système pour détecter les tags était déjà opérationnel. Ces tests ont été réalisés à l'aide des 2 programmes qui se trouvent dans le dossier TUIO. Le premier nous a permis de voir la prise des informations du logiciel tel que la position en X et Y, la rotation, la vitesse... Tandis que le second programme permet de dessiner un carré au centre de l'endroit où est détecté le tag. Ce deuxième programme nous a permis de remarquer un premier problème. En effet, lorsque nous boujons un objet vers le haut ou vers le bas, le mouvement affiché par le cube était l'inverse de notre action. L'axe En ayant ces informations en tête, nous avons pu commencer à coder l'application. 
 
-### Tutoriel
+## Tutoriel
 
 Le but de cette partie est de permettre à n'importe quel utilisateur d'apprendre à utiliser la table. La première étape logique de cet objectif, c'est de demander à l'utilisateur de placer un des objets sur l'écran. Cette étape est aussi très importante pour montrer que chaque objet est indépendant et donc n'interagit pas de la même manière avec la table.
 
@@ -24,7 +24,7 @@ Toutes ces actions se réalisent avec un seul et même objet, mais celles-ci son
 
 Après avoir fini cette démonstration, le projecteur va afficher une fenêtre où le but sera de réaliser un puzzle avec les 5 objets de la table.
 
-### Puzzle
+## Puzzle
 
 Ce puzzle est comme énoncé plutôt composé de 5 objets/pièces. Le but est donc de former un carré avec toutes les formes qui vont s'afficher à l'écran en utilisant les fonctionnalités montrées précédemment. Cependant, nous n'utilisons pas la vitesse dans ce mode de l'application. Alors que la position et la rotation sont indispensables. Il faut tout de même ajouter à cela la gestion des objets entre eux car il faut un positionnement précis entre les pièces pour créer ce carré.
 
