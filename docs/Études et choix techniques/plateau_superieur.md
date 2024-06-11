@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 4
+nav_order: 5
 parent: Études et choix techniques
-title: Support des roues
+title: Plateau supérieur
 ---
