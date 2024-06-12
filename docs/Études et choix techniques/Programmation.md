@@ -10,6 +10,7 @@ title: Programmation
 Afin de programmer nos applications, nous devions utiliser ReactiVision, un logiciel open-source permettant la détection et le suivi en temps réel d'objets sur des surfaces interactives. ReactiVision utilise le protocole TUIO afin de faire le lien entre ce que la caméra recoit et l'application. 
 
 Ainsi, il nous fallait choisir un langage compatible avec ReactiVision et le framework TUIO. Parmi les langages possibles, nous retrouvions : 
+
     - Le C++
     - Le Java
     - Le C#
@@ -25,5 +26,5 @@ Il possède des capacités graphique relativement puissante permettant la créat
 Cet envrionnement dispose de nombreuses bibliothèques utiles à la création de nos applications, notamment des bibliothèques audio, indispensables à la création d'une application de musique. 
 Enfin, les programmes processing sont rapides à l'éxecution, ce qui est parfait pour les nombreux tests que nous avions à effectuer. 
 
-Le choix de Processing nous a paru évident ! 
+Le choix de Processing nous a alors paru évident ! 
 
