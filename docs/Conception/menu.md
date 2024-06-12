@@ -22,5 +22,14 @@ Il doit simplement déplacer un tag vers la partie inférieure droite de l'écra
 
 ![icône](menu2.png)
 
-Pour ce faire, nous avons simplement délimiter une zone en bas de l'écran à l'aide des coordonnées. Si un tag franchit cette zone et dépasse les coordonnées nécessaires, alors l'application se ferme et laisse place au menu. 
+Pour ce faire, nous avons simplement délimiter une zone en bas de l'écran à l'aide des coordonnées. Si un tag franchit cette zone et dépasse les coordonnées nécessaires, alors l'application se ferme et laisse place au menu.
+
+```java
+if(x0*480>=440 && y0*450>=410 && tobj.getSymbolID() == 0 && etape_musique  ){
+              etape_musique=false;
+              backgroundColor=0;
+            }
+```
+
+Comme on peut le voir dans le code si dessus, pour réaliser ce menu nous avons utilisé plusieurs ` boolean`, ici ` etape_musique`. Cela permet de naviguer facilement entre les applications. Nous avions pensé à d'autres moyens comme l'utilisation d'une boucle ` while()`. Le problème étant que tout au long de l'exécution du programme nous nous trouvons dans la fonction `draw()`. Cette fonction permet l'actualisation permanente de l'affichage du programme, donc lorsque l'on utilise une boucle ` while()`, le programme va alors se bloquer dans cette même boucle puisqu'il ne peut plus mettre à jour la position des tags par exemple.
 

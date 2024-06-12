@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Installation sur la Raspberry
+title: Installation sur le Raspberry
 parent: Conception
 nav_order: 6
 ---
