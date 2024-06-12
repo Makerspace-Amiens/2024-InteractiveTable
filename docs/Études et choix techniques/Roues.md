@@ -10,7 +10,7 @@ title: Roues
 ## Introduction
 
 - Nom de la pièce : Roue de 144 mm
-- Description : Cette pièce est une roue de 144 mm de diamètre conçue pour intégrer un support modélisé en 3D.
+- Description : Cette pièce est une roue de 144 mm de diamètre conçu pour intégrer un support modélisé en 3D.
 - Date de création : mai 2024
 - Auteur : Baptiste Gogolewski
 
@@ -51,4 +51,4 @@ title: Roues
 
 - ![troisieme schema](roue_final.png)
 
-Pour modéliser cette roue, j'ai choisi de mettre en place une nouvelle technique pour former, grâce aux deux ellipses (premier schema) et au diamètre (deuxieme schema), un objet 3D de la forme des ellipses suivant le diamètre. J'ai utilisé un balayage.
+Pour modéliser cette roue, j'ai choisi de mettre en place une nouvelle technique pour former, grâce aux deux ellipses (premier schéma) et au diamètre (deuxième schéma), un objet 3D de la forme des ellipses suivant le diamètre. J'ai utilisé un balayage.

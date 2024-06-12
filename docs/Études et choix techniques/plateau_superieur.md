@@ -11,7 +11,7 @@ title: Plateau supérieur
 
 - Nom de la pièce : Plateau supérieur
 
-- Description : Ce plateau est plus petit que l'ancien. Il est fabriqué en basswood de 5 mm pour le premier étage et en acrylique noir de 3 mm pour le deuxième étage.
+- Description : ce plateau est plus petit que l'ancien. Il est fabriqué en basswood de 5 mm pour le premier étage et en acrylique noir de 3 mm pour le deuxième étage.
 
 - Matériau : Basswood (5 mm) et acrylique noir (3 mm)
 
@@ -51,7 +51,7 @@ title: Plateau supérieur
 
 ![plateau final](plateau_final.png)
 
-Le plateau est donc divisé en 2 étages. Le premier étage (plateau supérieur) est en basswood de 5 mm. Le plateau supérieur qui va au dessus du basswood est en acrylique noir de 3 mm. Il y a un offset de 7 mm pour mettre une plaque sert d'écran. Des congés de 20 mm ont été réaliser pour plus d'esthétique.
+Le plateau est donc divisé en 2 étages. Le premier étage (plateau supérieur) est en basswood de 5 mm. Le plateau supérieur qui va au-dessus du basswood et en acrylique noir de 3 mm. Il y a un offset de 7 mm pour mettre une plaque sert d'écran. Des congés de 20 mm ont été réaliser pour plus d'esthétique.
 
 Voici une image du plateau d'origine :
 ![ancien plateau](ancien_plateau.png)

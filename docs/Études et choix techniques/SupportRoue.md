@@ -12,7 +12,7 @@ title: Support des roues
 - Nom de la pièce : Support pour roue de 144 mm
 
 - Description : Ce support est conçu pour accueillir une roue 
-de 144 mm. Il se compose d'un socle fixé sur un profilé en aluminium et de côtés en bois (basswood) de 5 mm * 2 d'épaisseur. Les côtés sont vissés au socle avec des inserts filetés M5. Le socle dispose de deux trous pour le fixer au profilé en aluminium, et les côtés ont un trou pour accueillir une tige filetée de 8 mm qui passera à travers la roue.
+de 144 mm. Il se compose d'un socle fixé sur un profilé en aluminium et des côtés en bois (basswood) de 5 mm * 2 d'épaisseur. Les côtés sont vissés au socle avec des inserts filetés M5. Le socle dispose de deux trous pour le fixer au profilé en aluminium, et les côtés ont un trou pour accueillir une tige filetée de 8 mm qui passera à travers la roue.
 
 - Matériaux :
     - Socle : PLA
@@ -65,7 +65,7 @@ de 144 mm. Il se compose d'un socle fixé sur un profilé en aluminium et de cô
 
 - ![support](support.png)
 
-Ce support est une version 2. La première version était plus fragile cause des cotées (3 mm d'épaisseur). J'ai donc repris la base de la première version et modifié les cotés pour obtenir la version finale.
+Ce support est une version 2. La première version était plus fragile cause des côtées (3 mm d'épaisseur). J'ai donc repris la base de la première version et modifié les côtés pour obtenir la version finale.
 
 Voci une image de la première version :
 
