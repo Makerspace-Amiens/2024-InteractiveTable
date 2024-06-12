@@ -7,7 +7,7 @@ nav_order: 6
 
 ## Installer processing
 
-Une fois le raspberry Pi 5 installé, la première étape était d'installer processing.
+Une fois le système d'exploitation installé sur le raspberry Pi 5, la première étape était d'installer processing.
 [Processing.org](https://processing.org/download).
 Téléchargé la version adéquat. Pour notre projet c'est en 64 bits.
 
@@ -20,6 +20,7 @@ Une fois ceci fait, tapez cette commande pour excécuter processing dans le fich
 ```bash
 $ ./processing
 ```
+faites attention à bien être dans le bon répertoire.
 
 ## Installer un serveur VNC
 
@@ -82,11 +83,10 @@ $ sudo apt-get install libturbojpeg0-dev
 
 ## Processing/Reactivision
 
-
 ## Lancement de l'application avec processing
 
 Le but est d'excécuter notre application avec `processing` au démarrage du raspberry pi 5.
-Beaucoup de forum sont disponibles sur internet mais elles sont toutes enciennes et sont donc obsolètes pour le raspberry pi 5.
+Beaucoup de forum sont disponibles sur internet mais ils sont tous enciens et sont donc obsolètes pour le raspberry pi 5.
 
 Dans un premier temps nous avons édité le fichier `wayfire.ini` avec la commande suivante :
 ```bash

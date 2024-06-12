@@ -53,6 +53,9 @@ title: Plateau supérieur
 
 Le plateau est donc divisé en 2 étages. Le premier étage (plateau supérieur) est en basswood de 5 mm. Le plateau supérieur qui va au dessus du basswood est en acrylique noir de 3 mm. Il y a un offset de 7 mm pour mettre une plaque sert d'écran. Des congés de 20 mm ont été réaliser pour plus d'esthétique.
 
+Voici une image du plateau d'origine :
+![ancien plateau](ancien_plateau.png)
+
 ## Instructions de Montage
 
 - Étape 1 : Vérifiez que toutes les dimensions correspondent aux spécifications fournies.
