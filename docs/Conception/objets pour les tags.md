@@ -22,4 +22,4 @@ Nous avons ensuite décidé de nous inspirer d'un objet que le groupe précéden
 
 La dernière forme créée possède un design plus original. C'est un demi-cercle dans lequel 2 trous on était creusé pour pouvoir le bouger plus facilement avec l'index et le majeur. Cependant, un problème aurait pu survenir lors du collage des tags car étant donné que les tags sont dessinés dans un carré, il fallait alors être précis. Sinon, nous aurions dû utiliser des tags spéciaux pour les formes rondes. Cela aurait eu une influence directement dans le code et la détection.
 
-![demi_cercle](demi_cercle.png)
+![demi_cercle](demi.png)
